@@ -2,3 +2,5 @@ This is file from remote
 not exist in local
 
 now after pull this is from local!!
+
+having a chenges from local and remote 
